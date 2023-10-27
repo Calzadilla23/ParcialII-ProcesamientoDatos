@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_O8afgHEnEe6nsZaSTiaFNA" confirmationNeeded="false" name="Desarrollo">
+    <contextParameter xmi:id="_O8afgXEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Login" prompt="Desarrollo_DataWareHouse_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_O8afgnEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_AdditionalParams" prompt="Desarrollo_DataWareHouse_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_O8afg3EnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Password" prompt="Desarrollo_DataWareHouse_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:RggeH3hkIEBExiayzYmOgmOD1dqSlea7rmO4nOooxwE="/>
+    <contextParameter xmi:id="_O8afhHEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Port" prompt="Desarrollo_DataWareHouse_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3308"/>
+    <contextParameter xmi:id="_O8afhXEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Database" prompt="Desarrollo_DataWareHouse_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwflights"/>
+    <contextParameter xmi:id="_O8afhnEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Server" prompt="Desarrollo_DataWareHouse_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_O8afh3EnEe6nsZaSTiaFNA" confirmationNeeded="false" name="Produccion">
+    <contextParameter xmi:id="_O8afiHEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Login" prompt="Desarrollo_DataWareHouse_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_O8afiXEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_AdditionalParams" prompt="Desarrollo_DataWareHouse_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_O8afinEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Password" prompt="Desarrollo_DataWareHouse_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:nCzGZ/HzLkK5FTgKMQ2miWV7ZQAYG7xISBrZzNG6kLc="/>
+    <contextParameter xmi:id="_O8afi3EnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Port" prompt="Desarrollo_DataWareHouse_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3308"/>
+    <contextParameter xmi:id="_O8afjHEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Database" prompt="Desarrollo_DataWareHouse_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwflights"/>
+    <contextParameter xmi:id="_O8afjXEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Server" prompt="Desarrollo_DataWareHouse_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_O8afjnEnEe6nsZaSTiaFNA" confirmationNeeded="false" name="Pruebas">
+    <contextParameter xmi:id="_O8afj3EnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Login" prompt="Desarrollo_DataWareHouse_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_O8afkHEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_AdditionalParams" prompt="Desarrollo_DataWareHouse_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_O8afkXEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Password" prompt="Desarrollo_DataWareHouse_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:V3zOqgyitlHieaiaKStVHRByf6OpING6uHuCMFZJvAI="/>
+    <contextParameter xmi:id="_O8afknEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Port" prompt="Desarrollo_DataWareHouse_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3308"/>
+    <contextParameter xmi:id="_O8afk3EnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Database" prompt="Desarrollo_DataWareHouse_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="dwflights"/>
+    <contextParameter xmi:id="_O8aflHEnEe6nsZaSTiaFNA" comment="" name="Desarrollo_DataWareHouse_Server" prompt="Desarrollo_DataWareHouse_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+</xmi:XMI>

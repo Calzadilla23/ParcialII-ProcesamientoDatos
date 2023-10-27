@@ -1,0 +1,26 @@
+{
+  "itemId" : "_xk9SwHElEe6nsZaSTiaFNA",
+  "contextList" : [ {
+    "contextName" : "Desarrollo",
+    "repoId" : "_O7rfsHEnEe6nsZaSTiaFNA",
+    "parameterList" : [ {
+      "id" : "_O8afgXEnEe6nsZaSTiaFNA",
+      "name" : "Desarrollo_DataWareHouse_Login"
+    }, {
+      "id" : "_O8afgnEnEe6nsZaSTiaFNA",
+      "name" : "Desarrollo_DataWareHouse_AdditionalParams"
+    }, {
+      "id" : "_O8afg3EnEe6nsZaSTiaFNA",
+      "name" : "Desarrollo_DataWareHouse_Password"
+    }, {
+      "id" : "_O8afhHEnEe6nsZaSTiaFNA",
+      "name" : "Desarrollo_DataWareHouse_Port"
+    }, {
+      "id" : "_O8afhXEnEe6nsZaSTiaFNA",
+      "name" : "Desarrollo_DataWareHouse_Database"
+    }, {
+      "id" : "_O8afhnEnEe6nsZaSTiaFNA",
+      "name" : "Desarrollo_DataWareHouse_Server"
+    } ]
+  } ]
+}

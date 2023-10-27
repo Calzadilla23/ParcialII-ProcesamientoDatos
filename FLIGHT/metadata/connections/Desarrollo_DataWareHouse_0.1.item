@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_SWc9cHEnEe6nsZaSTiaFNA" name="Desarrollo_DataWareHouse" id="_xk9SwHElEe6nsZaSTiaFNA" label="Desarrollo_DataWareHouse" dataPackage="_9OMuYHL0Ee6mi-smVOpn8w" ContextMode="true" ContextId="_O7rfsHEnEe6nsZaSTiaFNA" contextName="Desarrollo" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3308/dwflights?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="context.Desarrollo_DataWareHouse_Port" Username="context.Desarrollo_DataWareHouse_Login" Password="context.Desarrollo_DataWareHouse_Password" ServerName="context.Desarrollo_DataWareHouse_Server" DatasourceName="" FileFieldName="" SID="context.Desarrollo_DataWareHouse_Database" SqlSynthax="SQL_92" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.Desarrollo_DataWareHouse_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_SWdkgHEnEe6nsZaSTiaFNA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_SXSD4HEnEe6nsZaSTiaFNA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_SXSD4XEnEe6nsZaSTiaFNA" tag="Status" value=""/>
+    <taggedValue xmi:id="_SXSD4nEnEe6nsZaSTiaFNA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_SXSD43EnEe6nsZaSTiaFNA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_SXSD5HEnEe6nsZaSTiaFNA" tag="Description" value=""/>
+    <taggedValue xmi:id="_SXSD5XEnEe6nsZaSTiaFNA" tag="Author" value=""/>
+    <taggedValue xmi:id="_SXSD5nEnEe6nsZaSTiaFNA" tag="otherParameter"/>
+    <taggedValue xmi:id="_SXdDAHEnEe6nsZaSTiaFNA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_SXdDAXEnEe6nsZaSTiaFNA" tag="DB ProductVersion" value="11.2.0-MariaDB"/>
+    <taggedValue xmi:id="_SXdDAnEnEe6nsZaSTiaFNA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_SWdkgXEnEe6nsZaSTiaFNA" key="CONN_PARA_KEY_USERNAME" value="context.Desarrollo_DataWareHouse_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_9OMuYHL0Ee6mi-smVOpn8w" name="dwflights" dataManager="_SWc9cHEnEe6nsZaSTiaFNA"/>
+</xmi:XMI>

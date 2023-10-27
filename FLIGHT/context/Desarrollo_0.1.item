@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_Vri74HElEe6nsZaSTiaFNA" confirmationNeeded="false" name="Desarrollo">
+    <contextParameter xmi:id="_Vri74XElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Login" prompt="Desarrollo_Transaccional_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_Vri74nElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_AdditionalParams" prompt="Desarrollo_Transaccional_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_Vri743ElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Password" prompt="Desarrollo_Transaccional_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:32TYQpCt2d5YtcCm+VG5+K67TFbbtbxcSx1o6cpQjXU="/>
+    <contextParameter xmi:id="_Vri75HElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Port" prompt="Desarrollo_Transaccional_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3308"/>
+    <contextParameter xmi:id="_Vri75XElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Database" prompt="Desarrollo_Transaccional_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="flightsgamatron"/>
+    <contextParameter xmi:id="_Vri75nElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Server" prompt="Desarrollo_Transaccional_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Vri753ElEe6nsZaSTiaFNA" confirmationNeeded="false" name="Produccion">
+    <contextParameter xmi:id="_Vri76HElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Login" prompt="Desarrollo_Transaccional_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_Vri76XElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_AdditionalParams" prompt="Desarrollo_Transaccional_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_Vri76nElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Password" prompt="Desarrollo_Transaccional_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:TwlOBeYt8W5hLcdWU/0rKvrteG8SgAGMqKJWz6Qg4LY="/>
+    <contextParameter xmi:id="_Vri763ElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Port" prompt="Desarrollo_Transaccional_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3308"/>
+    <contextParameter xmi:id="_Vri77HElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Database" prompt="Desarrollo_Transaccional_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="flightsgamatron"/>
+    <contextParameter xmi:id="_Vri77XElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Server" prompt="Desarrollo_Transaccional_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_Vri77nElEe6nsZaSTiaFNA" confirmationNeeded="false" name="Pruebas">
+    <contextParameter xmi:id="_Vri773ElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Login" prompt="Desarrollo_Transaccional_Login?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_Vri78HElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_AdditionalParams" prompt="Desarrollo_Transaccional_AdditionalParams?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1"/>
+    <contextParameter xmi:id="_Vri78XElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Password" prompt="Desarrollo_Transaccional_Password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:3gqeAyGcFcYEzl2Obhqg+EYJpUGqy5vRk36ybnNW5P4="/>
+    <contextParameter xmi:id="_Vri78nElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Port" prompt="Desarrollo_Transaccional_Port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3308"/>
+    <contextParameter xmi:id="_Vri783ElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Database" prompt="Desarrollo_Transaccional_Database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="flightsgamatron"/>
+    <contextParameter xmi:id="_Vri79HElEe6nsZaSTiaFNA" comment="" name="Desarrollo_Transaccional_Server" prompt="Desarrollo_Transaccional_Server?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+  </talendfile:ContextType>
+</xmi:XMI>

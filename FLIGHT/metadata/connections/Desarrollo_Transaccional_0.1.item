@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_WC32wHElEe6nsZaSTiaFNA" name="Desarrollo_Transaccional" id="__YwrwHEjEe6nsZaSTiaFNA" label="Desarrollo_Transaccional" dataPackage="_AiV_sHL1Ee6mi-smVOpn8w" ContextMode="true" ContextId="_VqWCAHElEe6nsZaSTiaFNA" contextName="Desarrollo" DatabaseType="MySQL" DriverClass="com.mysql.cj.jdbc.Driver" URL="jdbc:mysql://localhost:3308/flightsgamatron?noDatetimeStringSync=true&amp;enabledTLSProtocols=TLSv1.2,TLSv1.1,TLSv1" dbVersionString="MYSQL_8" Port="context.Desarrollo_Transaccional_Port" Username="context.Desarrollo_Transaccional_Login" Password="context.Desarrollo_Transaccional_Password" ServerName="context.Desarrollo_Transaccional_Server" DatasourceName="" FileFieldName="" SID="context.Desarrollo_Transaccional_Database" SqlSynthax="SQL_92" StringQuote="" NullChar="" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="context.Desarrollo_Transaccional_AdditionalParams" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_WC5r8HElEe6nsZaSTiaFNA" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_WEeZQHElEe6nsZaSTiaFNA" tag="package filter" value=""/>
+    <taggedValue xmi:id="_WEpYYHElEe6nsZaSTiaFNA" tag="Status" value=""/>
+    <taggedValue xmi:id="_WEpYYXElEe6nsZaSTiaFNA" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_WEpYYnElEe6nsZaSTiaFNA" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_WEpYY3ElEe6nsZaSTiaFNA" tag="Description" value=""/>
+    <taggedValue xmi:id="_WEpYZHElEe6nsZaSTiaFNA" tag="Author" value=""/>
+    <taggedValue xmi:id="_WEpYZXElEe6nsZaSTiaFNA" tag="otherParameter"/>
+    <taggedValue xmi:id="_WF7x0HElEe6nsZaSTiaFNA" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_WF7x0XElEe6nsZaSTiaFNA" tag="DB ProductVersion" value="11.2.0-MariaDB"/>
+    <taggedValue xmi:id="_WF7x0nElEe6nsZaSTiaFNA" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_WC5r8XElEe6nsZaSTiaFNA" key="CONN_PARA_KEY_USERNAME" value="context.Desarrollo_Transaccional_Login"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_AiV_sHL1Ee6mi-smVOpn8w" name="flightsgamatron" dataManager="_WC32wHElEe6nsZaSTiaFNA"/>
+</xmi:XMI>
